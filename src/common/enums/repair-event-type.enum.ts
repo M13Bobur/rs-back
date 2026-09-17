@@ -1,0 +1,6 @@
+export enum RepairEventType {
+  CREATED = 'CREATED',
+  UPDATED = 'UPDATED',
+  STATUS_CHANGED = 'STATUS_CHANGED',
+  DELIVERED = 'DELIVERED',
+}

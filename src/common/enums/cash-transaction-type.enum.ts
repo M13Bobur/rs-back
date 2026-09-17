@@ -1,0 +1,9 @@
+export enum CashTransactionType {
+  INCOME = 'INCOME',
+  EXPENSE = 'EXPENSE',
+  SALE = 'SALE',
+  REPAIR_PAYMENT = 'REPAIR_PAYMENT',
+  DEBT_PAYMENT = 'DEBT_PAYMENT',
+  REFUND = 'REFUND',
+  OTHER = 'OTHER',
+}

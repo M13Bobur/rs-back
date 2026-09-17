@@ -1,0 +1,10 @@
+export enum AuditEntityType {
+  USER = 'USER',
+  REPAIR = 'REPAIR',
+  PAYMENT = 'PAYMENT',
+  SALE = 'SALE',
+  PRODUCT = 'PRODUCT',
+  INVENTORY_MOVEMENT = 'INVENTORY_MOVEMENT',
+  SETTINGS = 'SETTINGS',
+  AUTH = 'AUTH',
+}
